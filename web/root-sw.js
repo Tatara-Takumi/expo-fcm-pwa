@@ -1,0 +1,1 @@
+importScripts('expo-service-worker.js','firebase-messaging-sw.js');
